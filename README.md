@@ -1,5 +1,5 @@
-# media_indexer
-Indexes audio files on a hard disk into an SQL table. 
+# Media Indexer
+This is an adaptable tool to index audio files on a hard disk into an SQL table. 
 
 The media table contains the fields:
 Title, Album, Artist, Loation, Duration
